@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @satishprajapati1
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Odoo Framework
+- 🌱 I’m currently learning Odoo
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
