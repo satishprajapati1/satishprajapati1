@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @satishprajapati1
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Odoo
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Java,Python,Javascript related projects.
 - 📫 How to reach me ...
 
 <!---
