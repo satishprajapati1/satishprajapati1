@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @satishprajapati1
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Odoo
-- 💞️ I’m looking to collaborate on Java,Python,Javascript related projects.
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Python,Javascript related projects.
 
 <!---
 satishprajapati1/satishprajapati1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
