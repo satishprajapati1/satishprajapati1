@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @satishprajapati1
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python · JSON · jQuery · XML · XML-RPC · PostgreSQL · Odoo · JavaScript
 - 🌱 I’m currently learning Odoo
-- 💞️ I’m looking to collaborate on Python,Javascript related projects.
 
 <!---
 satishprajapati1/satishprajapati1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
