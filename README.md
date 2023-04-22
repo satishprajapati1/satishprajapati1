@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @satishprajapati1
-- 👀 I’m interested in Python · JSON · jQuery · XML · XML-RPC · PostgreSQL · Odoo · JavaScript
-- 🌱 I’m an Odoo Developer
-
-
-### Hi there 👋, Odoo Mates here with you !
+### Hi there 👋, Satish Prajapati here with you !
 
 <p align="center">
 <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="130">
@@ -19,7 +14,6 @@
 <h3>My coding stack: </h3>
 <p>
   <img alt="Python" src="https://img.icons8.com/color/48/000000/python.png" />
-  <img alt="Odoo" src="https://pngset.com/images/odoo-number-symbol-text-logo-transparent-png-1106714.png" />
   <img alt="PostgreSql" src="https://img.icons8.com/color/48/000000/postgreesql.png" /> 
   <img alt="Javascript" src="https://img.icons8.com/color/50/000000/javascript.png" /> 
   <img alt="Github" src="https://img.icons8.com/doodle/48/000000/github.png" /> 
