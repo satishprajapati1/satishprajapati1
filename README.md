@@ -1,8 +1,9 @@
 ### Hi there 👋, Satish Prajapati here with you !
-
-<p align="center">
-  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="130"/>
+  
+<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="200"/>
 <br>
+<p align="center">
+
   
  
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCeTQ5rKNX7SwEQMKRvfU5LA) 
